@@ -1,0 +1,20 @@
+body {
+  font-family: sans-serif;
+  max-width: 600px;
+  margin: 40px auto;
+  text-align: center;
+}
+input {
+  width: 70%;
+  padding: 8px;
+}
+button {
+  padding: 8px 12px;
+}
+ul {
+  text-align: left;
+  margin-top: 20px;
+}
+li {
+  margin-bottom: 10px;
+}
